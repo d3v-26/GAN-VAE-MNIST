@@ -9,6 +9,8 @@ Implementation of GAN and VAE on MNIST as well as Fashion MNIST
 To run this project run
 
 ```bash
+  git clone https://github.com/d3v-26/GAN-VAE-MNIST.git
+  cd GAN-VAE-MNIST
   jupyter notebook
 ```
 
